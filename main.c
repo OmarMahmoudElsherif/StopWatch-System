@@ -2,8 +2,8 @@
  * main.c
  *
  *  Created on: 12 Sept 2022
- *      FaceBook Name: Omar Elsherif
- *      Name on certificate: Omar Mahmoud Mohamed Khalil Elsherif
+ *   Author : Omar Elsherif
+ *      
  */
 
 #include<avr/io.h>
